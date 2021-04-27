@@ -1,0 +1,27 @@
+.container{
+    width: 600px;
+    height: 130px;
+    border:2px black solid;
+    margin-left: 400px;
+    margin-top: 200px;
+}
+h4{
+    position: absolute;
+    top: 170px;
+    background-color: white;
+    left: 420px;
+}
+
+h1{
+    -webkit-transform: rotate(180deg);
+    padding-left: 420px;
+}
+
+button{
+    width: 220px;
+    height: 30px;
+    font-size: medium;
+    text-align: center;
+    margin-left: 15px;
+}
+
